@@ -1,3 +1,4 @@
+[Live preview](https://jazzy-naiad-9ae318.netlify.app/)
 # Getting Started
 Install the dependencies and run the project
 ```
