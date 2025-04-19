@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    font-family: "Inter", sans-serif;
+}
+
+.container{
+    width:550px;
+    height: 729px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: #1F2937;
+    
+}
+#metric-el{
+    background-color: #6943FF;
+    height: 285px;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+}
+#input-el{
+    border: 2px solid #B295FF;
+    width: 117px;
+    height: 83px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color: #6943FF;
+    font-size: 58px;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    color: #FFFFFF;
+    font-weight: 800;
+    border-radius: 5px;
+}
+#convert-btn{
+    width: 117px;
+    height: 42px;
+    background-color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    margin-top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+#length-el{
+    height: 109px;
+    width: 500px;
+    background-color: #273549;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 36px;
+    margin-bottom: 12px;
+    color: #CCC1FF;
+}
+#volume-el{
+    height: 109px;
+    width: 500px;
+    background-color: #273549;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 12px;
+    color: #CCC1FF;
+}
+#mass-el{
+    height: 109px;
+    width: 500px;
+    background-color: #273549;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 12px;
+    color: #CCC1FF;
+}
